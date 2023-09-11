@@ -1,1 +1,1 @@
-This is one of my final projects for one of my courses during my graduate studies at Syracuse University. I built a trading strategy that can be implemented to trade stocks in the stock market.
+This is my final projectas part of my python coursework at Syracuse University. I built a trading strategy that can be implemented to trade stocks in the stock market.
